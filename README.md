@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **samahch6@gmail.com**
 
-- ⚡ Fun fact **Music is my oxygen, Billie Eilish and Adele are godesses 😻**
-
 
 
 <h3 align="left">Connect with me:</h3>
