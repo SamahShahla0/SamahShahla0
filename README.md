@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/samah_chahla" target="blank"><img src="https://img.shields.io/twitter/follow/samah_chahla?logo=twitter&style=for-the-badge" alt="samah_chahla" /></a> </p>
 
-- 🌱 I’m currently learning **Html, CSS, JavaScript, PHP**
+- 🌱 I’m currently learning **JavaScript, OWL, Python**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Html, CSS**
 
 - 📫 How to reach me **samahch6@gmail.com**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samah_chahla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samah_chahla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samah shahla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samah shahla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samah-shahla-28909023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samah shahla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
